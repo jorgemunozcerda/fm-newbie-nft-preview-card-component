@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/nft-preview-card-component-usingg-html-and-css-6s1xrupxO)
 - [Github Pages Live Demo](https://jorgemunozcerda.github.io/fm-newbie-nft-preview-card-component/)
 
 ## My process

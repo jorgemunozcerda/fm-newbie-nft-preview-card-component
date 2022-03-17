@@ -74,11 +74,6 @@ body {
     display: block;
 }
 
-.card .nft-container .shadow:hover:after {
-    /* content: url(/images/icon-view.svg);
-    display: block; */
-}
-
 .card .nft-title-container {
 	align-self: flex-start;
 	color: var(--white);
@@ -89,6 +84,7 @@ body {
 
 .card .nft-title-container h2 {
 	margin: 0;
+    font-size: 22px;
 }
 
 .card .nft-title-container h2:hover {
