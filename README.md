@@ -41,7 +41,6 @@ Users should be able to:
 
 - HTML5
 - CSS
-- Flexbox
 
 ### What I learned
 
